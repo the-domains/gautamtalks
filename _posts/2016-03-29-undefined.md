@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: undefined
-datePublished: '2016-03-29T21:25:37.598Z'
-dateModified: '2016-03-29T21:23:15.444Z'
-title: ''
+description: The Keynesian Multiplier
+datePublished: '2016-03-29T21:29:14.583Z'
+dateModified: '2016-03-29T21:27:10.174Z'
+title: Keynes on Digging Holes in the Great Depression
 author: []
+sourcePath: _posts/2016-03-29-undefined.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-29-undefined.md
-published: true
 url: undefined/index.html
 _type: Article
 
