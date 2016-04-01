@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "In light of the new budget, I've been thinking of a few things."
-datePublished: '2016-04-01T06:40:05.372Z'
-dateModified: '2016-04-01T06:39:48.159Z'
-title: ''
+datePublished: '2016-04-01T06:42:36.825Z'
+dateModified: '2016-04-01T06:41:16.191Z'
+title: The Budget Deficit
 author: []
+sourcePath: _posts/2016-04-01-in-light-of-the-new-budget-ive-been-thinking-of-a-few-thin.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-01-in-light-of-the-new-budget-ive-been-thinking-of-a-few-thin.md
-published: true
 url: in-light-of-the-new-budget-ive-been-thinking-of-a-few-thin/index.html
 _type: Article
 
