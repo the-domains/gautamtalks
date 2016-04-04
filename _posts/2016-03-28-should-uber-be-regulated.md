@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Adam Smith often argued that free-markets were best for economies. If everyone acted in their self-interest, then a best outcome should be reached. In a way, this is exactly what Uber aims to allow. It gives people the ability to work for as long as they want, and as soon as the cost of given up free time overwhelms the marginal benefit of driving for Uber, they are able to stop. So it makes sense that Uber isn't regulated at all, right? It provides the perfect solution."
-datePublished: '2016-03-28T18:15:26.863Z'
-dateModified: '2016-03-28T18:14:56.661Z'
+datePublished: '2016-04-04T04:41:38.047Z'
+dateModified: '2016-04-04T04:41:24.167Z'
 title: Should Uber be Regulated?
 author: []
 sourcePath: _posts/2016-03-28-should-uber-be-regulated.md
@@ -22,6 +22,8 @@ url: should-uber-be-regulated/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d5571c8e-c259-4c8c-96e4-4b3ba2f10d92.png)
+
 Adam Smith often argued that free-markets were best for economies. If everyone acted in their self-interest, then a best outcome should be reached. In a way, this is exactly what Uber aims to allow. It gives people the ability to work for as long as they want, and as soon as the cost of given up free time overwhelms the marginal benefit of driving for Uber, they are able to stop. So it makes sense that Uber isn't regulated at all, right? It provides the perfect solution.
 
 Well actually, opponents of Free-Market economists (largely Keynesian economists who believe that governments ought to intervene in markets) would argue that Uber should be regulated. Uber is anti-competitive, firms with "middle-men", in the form of call-centres and management can't hope to compete with a firm that links a passenger to a driver in one simple touch of a screen. And Uber offers no security to its drivers. If a driver can't find a passenger, then they aren't paid for their time.
