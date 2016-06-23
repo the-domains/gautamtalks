@@ -12,19 +12,20 @@ description: >-
   cut short, and it might be essential in a recession. This justifies the low
   interest rates and quantitative easing the UK has seen over the past few
   years, to fully enable the economy to recover.
-datePublished: '2016-06-23T18:47:43.459Z'
-dateModified: '2016-06-23T18:46:31.142Z'
+datePublished: '2016-06-23T18:51:28.058Z'
+dateModified: '2016-06-23T18:50:45.742Z'
 title: Keynes vs Hayek
 author: []
+sourcePath: _posts/2016-06-23-keynes-vs-hayek.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-23-keynes-vs-hayek.md
 url: keynes-vs-hayek/index.html
 _type: Article
 
 ---
 # Keynes vs Hayek
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/50a4b652-b337-4131-818e-911608fcab55.jpg)
 
 Turns out ignorance can be bad. Indeed, I've gone much of this year thinking Keynes' opinion is undoubtedly true. Keynes suggests economic growth is stimulated by spending, which boosts Aggregate Demand. Indeed, many agree. It was because of the spending in the second world war that the depression was cut short, and it might be essential in a recession. This justifies the low interest rates and quantitative easing the UK has seen over the past few years, to fully enable the economy to recover.
 
