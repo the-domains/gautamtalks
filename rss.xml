@@ -4,8 +4,22 @@
         <description><![CDATA[On Economics, By Gautam.]]></description>
         <link>http://econtalk.co.uk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Apr 2016 09:31:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2016 18:48:17 GMT</lastBuildDate>
         <atom:link href="http://econtalk.co.uk/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Keynes vs Hayek]]></title>
+            <description><![CDATA[<article><h1>Keynes vs Hayek</h1><p>Turns out ignorance can be bad. Indeed, I've gone much of this year thinking Keynes' opinion is undoubtedly true. Keynes suggests economic growth is stimulated by spending, which boosts Aggregate Demand. Indeed, many agree. It was because of the spending in the second world war that the depression was cut short, and it might be essential in a recession. This justifies the low interest rates and quantitative easing the UK has seen over the past few years, to fully enable the economy to recover.</p></article>]]></description>
+            <link>http://econtalk.co.uk/keynes-vs-hayek/index.html</link>
+            <guid isPermaLink="false">4f4753e6-3fb1-4859-825c-cc6d99c81bda</guid>
+            <pubDate>Thu, 23 Jun 2016 18:47:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Should Uber be Regulated?]]></title>
+            <description><![CDATA[<p>Adam Smith often argued that free-markets were best for economies. If everyone acted in their self-interest, then a best outcome should be reached. In a way, this is exactly what Uber aims to allow. It gives people the ability to work for as long as they want, and as soon as the cost of given up free time overwhelms the marginal benefit of driving for Uber, they are able to stop. So it makes sense that Uber isn't regulated at all, right? It provides the perfect solution.</p>]]></description>
+            <link>http://econtalk.co.uk/should-uber-be-regulated/index.html</link>
+            <guid isPermaLink="false">be2c719f-a126-49cf-9a60-b7333eb8a0c6</guid>
+            <pubDate>Mon, 04 Apr 2016 04:41:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d5aa8b5e-1edc-4cf6-920e-949143aff1fe.jpg">]]></description>
@@ -15,24 +29,17 @@
         </item>
         <item>
             <title><![CDATA[The Budget Deficit]]></title>
-            <description><![CDATA[<article><h1>The Budget Deficit</h1><p>In light of the new budget, I've been thinking of a few things.</p></article>]]></description>
+            <description><![CDATA[<p>In light of the new budget, I've been thinking of a few things.</p>]]></description>
             <link>http://econtalk.co.uk/in-light-of-the-new-budget-ive-been-thinking-of-a-few-thin/index.html</link>
             <guid isPermaLink="false">217e5a28-ad8f-4750-b90c-9e9d5b2bf3ba</guid>
             <pubDate>Fri, 01 Apr 2016 06:42:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Keynes on Digging Holes in the Great Depression]]></title>
-            <description><![CDATA[<article><h1>Keynes on Digging Holes in the Great Depression</h1><p>The Keynesian Multiplier</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9d7eb66f-635c-4ed0-9601-24402a232063.jpg"></article>]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9d7eb66f-635c-4ed0-9601-24402a232063.jpg">]]></description>
             <link>http://econtalk.co.uk/undefined/index.html</link>
             <guid isPermaLink="false">04959f3f-eac1-4768-a056-892f2297bf72</guid>
             <pubDate>Tue, 29 Mar 2016 21:29:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Should Uber be Regulated?]]></title>
-            <description><![CDATA[<article><h1>Should Uber be Regulated?</h1><p>Adam Smith often argued that free-markets were best for economies. If everyone acted in their self-interest, then a best outcome should be reached. In a way, this is exactly what Uber aims to allow. It gives people the ability to work for as long as they want, and as soon as the cost of given up free time overwhelms the marginal benefit of driving for Uber, they are able to stop. So it makes sense that Uber isn't regulated at all, right? It provides the perfect solution.</p></article>]]></description>
-            <link>http://econtalk.co.uk/should-uber-be-regulated/index.html</link>
-            <guid isPermaLink="false">be2c719f-a126-49cf-9a60-b7333eb8a0c6</guid>
-            <pubDate>Mon, 04 Apr 2016 04:41:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
